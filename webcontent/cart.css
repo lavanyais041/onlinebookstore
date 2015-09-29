@@ -1,0 +1,78 @@
+@CHARSET "ISO-8859-1";
+.b1
+{
+font-style: italic;
+font-size: 40px;
+color: navy;
+}
+.b2
+{
+ position:absolute; 
+font-style: normal;
+font-size:20px;
+top: 400px;
+left: 390px;
+width: 10%;
+color: navy;
+background-color:gray;
+}
+.b3
+{
+ position:absolute; 
+font-style: normal;
+font-size:20px;
+top: 400px;
+left: 600px;
+width: 10%;
+color: navy;
+background-color:gray;
+}
+.b4
+{
+background-color:aqua;
+}
+.b5
+{
+position:absolute;
+font-style: normal;
+font-size:10px;
+top: 5px;
+left: 1210px;
+width: 5%;
+color: black;
+background-color:highlight;
+}
+.b6
+{
+position:absolute;
+top:500px;
+left: 560px; 
+color: navy;
+background-color:highlight;
+font-size: medium;
+}
+.b7
+{
+position:absolute;
+top:500px;
+left: 680px; 
+color: navy;
+background-color:highlight;
+font-size: medium;
+}
+.b8
+{
+position: absolute;
+left: 580px;
+top: 100px;
+color: navy;
+font-family: fantasy;
+}
+.b9
+{
+position: absolute;
+left: 500px;
+top: 100px;
+color: navy;
+font-family: fantasy;	
+}

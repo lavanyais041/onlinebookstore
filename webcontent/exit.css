@@ -1,0 +1,27 @@
+@CHARSET "ISO-8859-1";
+.b1
+{
+font-style: italic;
+font-size: 40px;
+color: navy;
+}
+.b2
+{
+	position: absolute;
+	top: 180px;
+	left: 450px;
+	font-family: fantasy;
+	font-size: 100px;
+	color: navy;
+}
+.b3
+{
+position:absolute;
+font-style: normal;
+font-size:10px;
+top: 20px;
+left: 1140px;
+width: 10%;
+ color: black;
+background-color:highlight;  
+}

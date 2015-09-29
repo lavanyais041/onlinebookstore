@@ -1,0 +1,115 @@
+@CHARSET "ISO-8859-1";
+
+ .b1
+{
+position:absolute;
+top:350px;
+left: 90px;  
+width:20%;
+height:30%;
+}
+.b2
+{
+position:absolute;
+top:130px;
+left: 90px;  
+width:20%;
+height:30%;
+}
+.b3
+{
+position:absolute;
+top:130px;
+left: 380px;  
+width:20%;
+height:30%;
+}
+.b4
+{
+position:absolute;
+top:350px;
+left: 380px;  
+width:20%;
+height:30%;
+}
+.b5
+{
+position:absolute;
+top:300px;
+left: 182px;
+color: red;
+}
+.b6
+{
+position:absolute;
+top:300px;
+left: 450px;
+color: red;
+}
+.b7
+{
+position:absolute;
+top:520px;
+left: 182px;
+color: red;
+}
+.b8
+{
+position:absolute;
+top:520px;
+left: 450px;
+color: red;
+}
+.b9
+{
+font-style: italic;
+font-size: 40px;
+color: navy;
+}
+.b10
+{
+position: absolute;
+top: 220px;
+left: 700px;
+font-size:20px;
+font-style: italic;
+color: blue;
+text-align: center;
+text-shadow: highlight;
+}
+.b11
+{
+position:absolute;
+top:270px;
+left: 920px; 
+color: blue;
+background-color:silver;
+font-size: medium;
+}
+.b12
+{
+position:absolute;
+top:220px;
+left:1190px;
+width:120px;
+background-color: silver;
+}
+.b13
+{
+position: absolute;
+top: 300px;
+left: 830px;
+color: red;
+font-size: 25px;
+}
+.b14
+{
+position:absolute;
+font-style: normal;
+font-size:10px;
+top: 5px;
+left: 1210px;
+width: 5%;
+color: black;
+background-color:highlight;
+}
